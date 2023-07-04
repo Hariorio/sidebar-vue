@@ -133,52 +133,49 @@
               // this.shift = '1'
             },
             submit(){          
+               this.$router.push('/admin/dashboard');
+              // this.loading = true
+              // this.$store.dispatch('setOverlay', true)
 
-              this.loading = true
-              this.$store.dispatch('setOverlay', true)
 
+              // let username = this.email;
+			        // let password = this.password;
+              // let shif = this.shift;
+              // if(this.visibleShift == 'none'){
+              //   shif = '1'
+              // }
 
-              let username = this.email;
-			        let password = this.password;
-              let shif = this.shift;
-              if(this.visibleShift == 'none'){
-                shif = '1'
-              }
-
-              this.$store
-              .dispatch("loginUser", { username, password, shif })
-              .then(() => {
-                this.clear()
-                this.loading = false
-                this.$store.dispatch('setOverlay', false)
-
-                this.$router.push('/admin/dashboard');
-                
-                this.snackbar = {
-                  color: "success",
-                  icon: "mdi-checkbox-marked-circle",
-                  mode: "multi-line",
-                  position: "top",
-                  timeout: 7500,
-                  title: "Success",
-                  text: "Successfully Login",
-                  visible: true
-                };
-              })
-              .catch((err) => {
-                this.$store.dispatch('setOverlay', false)
-                this.loading = false
-                this.snackbar = {
-                  color: "error",
-                  icon: "mdi-alert-circle",
-                  mode: "multi-line",
-                  position: "top",
-                  timeout: 7500,
-                  title: "Error",
-                  text: err.response.data.message,
-                  visible: true
-                };
-              });
+              // this.$store
+              // .dispatch("loginUser", { username, password, shif })
+              // .then(() => {
+              //   this.clear()
+              //   this.loading = false
+              //   this.$store.dispatch('setOverlay', false)
+              //   this.snackbar = {
+              //     color: "success",
+              //     icon: "mdi-checkbox-marked-circle",
+              //     mode: "multi-line",
+              //     position: "top",
+              //     timeout: 7500,
+              //     title: "Success",
+              //     text: "Successfully Login",
+              //     visible: true
+              //   };
+              // })
+              // .catch((err) => {
+              //   this.$store.dispatch('setOverlay', false)
+              //   this.loading = false
+              //   this.snackbar = {
+              //     color: "error",
+              //     icon: "mdi-alert-circle",
+              //     mode: "multi-line",
+              //     position: "top",
+              //     timeout: 7500,
+              //     title: "Error",
+              //     text: err.response.data.message,
+              //     visible: true
+              //   };
+              // });
             }
         }
     }
