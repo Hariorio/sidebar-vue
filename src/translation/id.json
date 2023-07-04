@@ -1,0 +1,51 @@
+﻿{
+    "labels": {
+        "approved": "Setuju",
+		"dateFound": "Tanggal dan waktu ditemukan",
+		"dateFrom": "Tanggal awal",
+		"dateTo": "Tanggal akhir",
+        "department": "Departemen",
+		"FilePicture": "File foto",
+		"floor": "Lantai",
+		"foundBy": "Ditemukan oleh",
+		"labelInspect": "Ruangan sudah diinspeksi",
+		"labelCleaned": "Ruangan sudah diberishkan",
+		"lostAndFound": "Hilang dan ditemukan",
+		"pictureFile": "File gambar",
+		"poItem": "Detail barang PO",
+		"prItem": "Detail barang PR",
+		"note": "Catatan",
+		"Result": "Hasil",
+		"roomStatus": "Status Kamar",
+		"rowsPerPage": "Baris per halaman",
+		"status": "Status",
+		"searchPoId": "Cari PO ID",
+		"searchPrId": "Cari PR ID",
+		"venue": "Lokasi"
+    },
+    "messages": {
+		"approvePR": "Apakah kamu menyetujui PR",
+		"approvePO": "Apakah kamu menyetujui PO",
+		"approvePOConfirm": "Kalau kamu yakin klik setuju, kalau tidak klik batal",
+		"approvePRConfirm": "Kalau kamu yakin klik setuju, kalau tidak klik batal",
+		"loadingMessage": "Tolong tunggu, sedang mengambil data",
+		"roolBackPoApprovalOne": "Apa kamu yakin mau membatalkan persetujuan PO 1?",
+		"roolBackPoApprovalTwo": "Apa kamu yakin mau membatalkan persetujuan PO 2?",
+		"roolBackPrApprovalOne": "Apa kamu yakin mau membatalkan persetujaun PR?",
+        "retrieveNewPassword": "Kamu lupa password?"
+    },
+    "buttons": {
+        "back": "Kembali",
+        "cancel": "Batal",
+		"clear": "Bersih",
+        "confirm": "Konfirm",
+		"confirmation": "Konfirmasi",
+		"delete": "Hapus",
+        "next": "Selanjutanya",
+		"notApproved": "Tidak disetujui",
+		"rejected": "Ditolak",
+		"save": "Simpan",
+		"search": "Cari",
+		"show": "Tampilkan"
+    }
+}

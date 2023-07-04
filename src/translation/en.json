@@ -1,0 +1,51 @@
+﻿{
+    "labels": {
+        "approved": "Approved",
+		"dateFound": "Date and time found",
+		"dateFrom": "Date from",
+		"dateTo": "Date to",
+        "department": "Department",
+		"FilePicture": "Image file",
+		"floor": "Floor",
+		"foundBy": "Found by",
+		"labelInspect": "Have you inspected room",
+		"labelCleaned": "Have you cleaned room",
+		"lostAndFound": "Lost and found",
+		"pictureFile": "Picture file",
+		"poItem": "Detail PO Item",
+		"prItem": "Detail PR Item",
+		"note": "Note",
+		"Result": "Result",
+		"roomStatus": "Room Status",
+		"rowsPerPage": "Rows per page",
+		"status": "Status",
+		"searchPoId": "Search PO ID",
+		"searchPrId": "Search PR ID",
+		"venue": "Venue"
+    },
+    "messages": {
+		"approvePR": "Are you sure to approve this PR",
+		"approvePO": "Are you sure to approve this PO",
+		"approvePOConfirm": "If you are sure please click Agree, otherwise click cancel",
+		"approvePRConfirm": "If you are sure please click Agree, otherwise click cancel",
+		"loadingMessage": "Please wait, retrieving data",
+		"roolBackPoApprovalOne": "Are you sure to want to rollback PO approval 1?",
+		"roolBackPoApprovalTwo": "Are you sure to want to rollback PO approval 2?",
+		"roolBackPrApprovalOne": "Are you sure to want to rollback PR approval?",
+        "retrieveNewPassword": "Do you forget your password?"
+    },
+    "buttons": {
+        "back": "Back",
+        "cancel": "Cancel",
+		"clear": "Clear",
+        "confirm": "Confirm",
+		"confirmation": "Confirmation",
+		"delete": "Delete",
+        "next": "Next",
+		"notApproved": "Not approved",
+		"rejected": "Rejected",
+		"save": "Save",
+		"search": "Search",
+		"show": "Show"
+    }
+}
