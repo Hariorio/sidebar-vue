@@ -1,18 +1,18 @@
-## Halo, Saya [Darman Saputra Saragih] 👋
+## Halo, Saya [Ngentot] 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darman1725&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hariorio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/darman1725">
-  <img align="left" alt="Darman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Hariorio">
+  <img align="left" alt="Hariorio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/darman2001">
-  <img align="left" alt="Darman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/Hariorio">
+  <img align="left" alt="Hariorio's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/darman_saragih1701/">
-  <img align="left" alt="Darman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/Hariorio/">
+  <img align="left" alt="Hariorio's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCoGMzXt5PGzPsrj7SuUowAQ">
-  <img align="left" alt="Darman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Hariorio's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -35,6 +35,6 @@
 <code><img height="50" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/python--v2.png"></code>
 
-<a href="https://github.com/darman1725">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darman1725&theme=light&hide_langs_below=1" />
+<a href="https://github.com/Hariorio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariorio&theme=light&hide_langs_below=1" />
 </a>
